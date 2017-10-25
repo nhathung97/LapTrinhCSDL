@@ -1,0 +1,7 @@
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\bin\Debug\DAO.dll
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\bin\Debug\DAO.pdb
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\bin\Debug\DTO.dll
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\bin\Debug\DTO.pdb
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\obj\Debug\DAO.dll
+D:\GAME\LTCSDL\3lop\Buoi7\DAO\obj\Debug\DAO.pdb

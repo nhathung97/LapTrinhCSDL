@@ -1,0 +1,9 @@
+D:\GAME\LTCSDL\3lop\bin\Buoi7.exe.config
+D:\GAME\LTCSDL\3lop\bin\Buoi7.exe
+D:\GAME\LTCSDL\3lop\bin\Buoi7.pdb
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.csprojResolveAssemblyReference.cache
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.Form1.resources
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.Properties.Resources.resources
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.csproj.GenerateResource.Cache
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.exe
+D:\GAME\LTCSDL\3lop\Buoi7\obj\x86\Debug\Buoi7.pdb
