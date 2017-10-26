@@ -23,7 +23,6 @@ namespace Buoi7
         private void Form1_Load(object sender, EventArgs e)
         {
             list = new NhanvienBUS().GetData();
-            dataGridView1.AutoGenerateColumns = false;
             dataGridView1.DataSource = list;
         }
 
